@@ -3,11 +3,13 @@
 
 Здесь минимальный набранный датасет, скрипты для тренировки и использования нейросети и юпитеровский ноутбук,
 который я использовал для отработки функций перед тем, как писать отдельные скрипты. Ноутбук довольно грязный, но там все в целом понятно.
+
 Ресурсы: https://www.tensorflow.org/tutorials
   https://github.com/priya-dwivedi/Deep-Learning/blob/master/resnet_keras/Residual_Network_Keras.ipynb
   https://towardsdatascience.com/deep-learning-using-transfer-learning-python-code-for-resnet50-8acdfb3a2d38
   
 Использование скриптов:
+  
   trainer.py
     Собирает датасет из данной директории, компилирует и обучает нейросеть, сохраняет нейросеть по данному пути.
     Аргументы командной строки:
