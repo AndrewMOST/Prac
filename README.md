@@ -9,7 +9,6 @@
   https://towardsdatascience.com/deep-learning-using-transfer-learning-python-code-for-resnet50-8acdfb3a2d38
   
 Использование скриптов:
-  
   trainer.py
     Собирает датасет из данной директории, компилирует и обучает нейросеть, сохраняет нейросеть по данному пути.
     Аргументы командной строки:
